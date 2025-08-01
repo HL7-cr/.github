@@ -40,7 +40,6 @@ Estos son los repositorios mantenidos por la Iniciativa HL7 Costa Rica:
 
 | Repositorio | Descripción |
 |------------|-------------|
-| `.github` | Repositorio organizacional con configuraciones comunes y plantillas |
 | `extensions` | Extensiones definidas para el dominio costarricense (CR Realm) |
 | `digital-signature-fhir` | Firma digital para recursos FHIR R5 |
 | `ig-template` | Plantilla base para guías de implementación FHIR en Costa Rica |
